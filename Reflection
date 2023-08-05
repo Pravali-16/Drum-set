@@ -1,0 +1,15 @@
+today's reflection:- Today I was learnt how to create GitHub profile and i learnt about frontend and i was learnt about middleware,API, controller,database, driver and how we get respond from controller to API.
+frontend:the application which appears on the browser is known as frontend 
+API:its takes request from client
+middleware: it checks the is the request is correct or not 
+controller:it runs the code on server.controller takes database and gives respond.
+gitpod.io:it is a server.
+gitpod:it is a platform where we write the code.
+In between controller and database driver acts as bridge.
+operation in database:CRUD
+C: create
+R:read
+U: update
+D: delete
+middleware, controller, database are server side
+API:it is a client side 
